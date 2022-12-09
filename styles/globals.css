@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Arima:wght@300&family=Arizonia&family=Carter+One&family=Caveat:wght@400;500&family=Cedarville+Cursive&family=Comforter+Brush&family=Cookie&family=Courgette&family=Cousine&family=Dancing+Script:wght@400;500&family=Dosis:wght@200;400&family=Gloria+Hallelujah&family=Great+Vibes&family=Handlee&family=Hind&family=Homemade+Apple&family=Indie+Flower&family=Jost&family=Kalam:wght@300;400&family=Kaushan+Script&family=Kolker+Brush&family=Kristi&family=La+Belle+Aurore&family=Lobster&family=Mali:wght@300;400&family=Marck+Script&family=Mr+Dafoe&family=Mr+De+Haviland&family=Ms+Madi&family=Nanum+Brush+Script&family=Nothing+You+Could+Do&family=Nunito:wght@400;500;600;700;800&family=Pacifico&family=Pangolin&family=Patrick+Hand&family=Patrick+Hand+SC&family=Poppins:wght@200;300;400;500;600&family=Rubik+Distressed&family=Rubik+Glitch&family=Rubik+Marker+Hatch&family=Rubik+Maze&family=Satisfy&family=Shadows+Into+Light&family=Source+Code+Pro:wght@300;400&family=Swanky+and+Moo+Moo&family=Syne+Mono&family=Tangerine&family=Ubuntu:wght@300&family=Yellowtail&family=Zeyada&display=swap');
+
 html,
 body {
   padding: 0;
@@ -13,6 +15,7 @@ a {
 
 * {
   box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
 }
 
 @media (prefers-color-scheme: dark) {
